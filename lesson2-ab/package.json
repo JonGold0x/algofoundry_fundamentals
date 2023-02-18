@@ -1,0 +1,9 @@
+{
+  "name": "lesson2-ab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@algo-builder/algob": "^7.0.0"
+  }
+}
